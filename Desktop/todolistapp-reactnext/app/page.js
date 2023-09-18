@@ -102,13 +102,3 @@ const page = () => {
 }
 
 export default page
-
-//Tailwind CSS IntelliSense
-//simple react snippet
-//2 way binding - virtual dom ....... 2 way binding kyu kyuki react ko smajne ke liye.
-//usestate usestatesnippet
-//use client = next js full stack framework
-//variable title replicate (title connected )
-// title variable ke andar changes kar rahe ha hai user then replicate change dikh rahe hai ui pe.
-//2 way binding in 2 way - 1) react ko data pata hai , user bhej raha hai data 2) ui user ko dikh raha hai.
-//clg -console
