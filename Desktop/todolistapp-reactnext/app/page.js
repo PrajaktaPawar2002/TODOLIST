@@ -8,7 +8,6 @@ const page = () => {
   const [mainTask, setMainTask] = useState([]);
 
 
-  //variable e pass in submitHandler funtion
   const submitHandler = (e) => {
     //inbuild method - e.preventDefault (page reload nahi hota)
     e.preventDefault()
